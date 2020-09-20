@@ -1,0 +1,18 @@
+![cover](https://learning.oreilly.com/library/view/programming-kubernetes/9781492047094/assets/cover.png)
+# Summary
+* [](README.md)
+* [前言](Preface.md)
+* [第一章 Introduction](chapter 1. Introduction.md)
+* [第二章 Kubernetes API Basics](chapter 2. Kubernetes API Basics.md)
+* [第三章 Basics of client-go](chapter 3. Basics of client-go.md)
+* [第四章 Using Custom Resources](Chapter 4. Using Custom Resources.md)
+* [第五章 Automating Code Generation](Chapter 5. Automating Code Generation.md)
+* [第六章 Solutions for Writing Operators](Chapter 6. Solutions for Writing Operators.md)
+* [第七章 Shipping Controllers and Operators](Chapter 7. Shipping Controllers and Operators.md)
+* [第八章 Custom API Servers](Chapter 8. Custom API Servers.md)
+* [第九章 Advanced Custom Resources](Chapter 9. Advanced Custom Resources.md)
+* [Appendix A. Resources](Appendix A. Resources.md)
+* [Index](Index.md)
+* [关于作者](About the Authors.md)
+* [后记](Colophon.md)
+
